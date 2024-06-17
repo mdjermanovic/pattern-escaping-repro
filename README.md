@@ -29,4 +29,6 @@ Run npm run lint
 
 D:\a\pattern-escaping-repro\pattern-escaping-repro\src\{a,b}.js
 Warning:   1:1  warning  'foo' is not defined  no-undef
+
+✖ 1 problem (0 errors, 1 warning)
 ```
